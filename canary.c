@@ -18,5 +18,7 @@ int main(){
     char buf[0x30];
     printf("input buf: ");
     scanf("%s", buf);
+    printf("input buf: ");
+    scanf("%s", buf);
     return 0;
 }
